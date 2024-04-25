@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>videoplayback (4)-14413852.png</filename>
+	<path>E:\hoctap\ML\project\images\train\hello\videoplayback (4)-14413852.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>166</ymin>
+			<xmax>392</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
